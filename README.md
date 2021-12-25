@@ -1,4 +1,4 @@
-#demo
+# demo
 
 md = markdown
 commit = save
